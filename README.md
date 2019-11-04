@@ -1,2 +1,2 @@
 # Basic-HTML
-ATU Website CS department website using HTML
+CS department website in ATU using HTML
